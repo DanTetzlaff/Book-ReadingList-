@@ -2,6 +2,7 @@ package dList;
 /**
  * Generic Doubly linked list
  * @author Jordan Kidney
+ * @author Daniel Tetzlaff
  * @version 1.0
  * 
  * Last Modified: Sept 18, 2014 - Created (Jordan Kidney)
