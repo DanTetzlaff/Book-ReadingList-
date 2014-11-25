@@ -26,11 +26,13 @@ package tree.treeIterators;
  * 
  * @see http://en.wikipedia.org/wiki/Tree_traversal#Depth-first_2
  * @author jkidney
+ * @author Daniel Tetzlaff
  * @version 1 
  * 
  *      Created: Oct 17, 2013
  * Last Updated: Oct 17, 2013 - creation (jkidney)
  *               Oct 23, 2014 - Updated to to use java built in iterator class
+ *               Nov 17, 2014 - Completed functionality (Daniel Tetzlaff)
  */
 import tree.BinaryNode;
 
