@@ -1,0 +1,8 @@
+List1,books I should read for class
+FunRead,books I actually want to read
+List3,books I will never read
+####
+Data Structures and Abstractions in Java,Adam Drozdek # List1,List3
+A Memory of Light,Jordan and Sanderson # FunRead
+The Omen Machine,Terry Goodkind # List1,FunRead
+
