@@ -11,6 +11,7 @@ package tree;
  * @see http://en.wikipedia.org/wiki/Binary_search_tree
  * 
  * @author JKidney
+ * @author Daniel Tetzlaff
  * @version 1 
  * 
  *      Created: Oct 17, 2013
