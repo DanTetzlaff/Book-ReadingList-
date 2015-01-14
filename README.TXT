@@ -1,0 +1,2 @@
+- program begins with loader
+- the name of the file located in the "files" folder is passed through the main method args[]
